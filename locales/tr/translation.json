@@ -1,7 +1,7 @@
 {
     "app": {
-        "description": "OTC-X-SWAP eşler arası ticareti sağlar.",
-        "title": "OTC-X-SWAP: Eşler Arası Token Ticaret Borsası ve Açık Kaynak Kodlu Geliştirici DAO'su"
+        "description": "OTC-𝕏-SWAP eşler arası ticareti sağlar.",
+        "title": "OTC-𝕏-SWAP: Eşler Arası Token Ticaret Borsası ve Açık Kaynak Kodlu Geliştirici DAO'su"
     },
     "balances": {
         "addToTokenSet": "İçe aktar",
