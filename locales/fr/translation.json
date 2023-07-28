@@ -1,7 +1,7 @@
 {
     "app": {
-        "description": "OTC-X-SWAP alimente le trading pair à pair.",
-        "title": "OTC-X-SWAP: Token pair a pair, trading DEX "
+        "description": "OTC-𝕏-SWAP alimente le trading pair à pair.",
+        "title": "OTC-𝕏-SWAP: Token pair a pair, trading DEX "
     },
     "balances": {
         "addToTokenSet": "Importer",
